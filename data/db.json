@@ -1,0 +1,120 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome To The Blog",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique tenetur odio aspernatur amet natus magni qui, eveniet hic dolor quidem, tempora soluta ex officia velit veritatis voluptate illo fuga ad? Aspernatur doloribus nam officiis, perferendis nisi, facilis facere illum nesciunt provident et vero cumque recusandae. Delectus amet quo quae reiciendis est magnam mollitia accusamus, commodi eos aperiam error, ullam corrupti temporibus quisquam molestias quasi in iure quibusdam deserunt illo possimus adipisci dolorem saepe animi! Repudiandae praesentium eveniet sed quidem quis facilis temporibus vero, explicabo debitis sint illo quibusdam ipsam earum nihil iusto nam odit consectetur mollitia natus. Sit, eos hic!",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS Tips",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique tenetur odio aspernatur amet natus magni qui, eveniet hic dolor quidem, tempora soluta ex officia velit veritatis voluptate illo fuga ad? Aspernatur doloribus nam officiis, perferendis nisi, facilis facere illum nesciunt provident et vero cumque recusandae. Delectus amet quo quae reiciendis est magnam mollitia accusamus, commodi eos aperiam error, ullam corrupti temporibus quisquam molestias quasi in iure quibusdam deserunt illo possimus adipisci dolorem saepe animi! Repudiandae praesentium eveniet sed quidem quis facilis temporibus vero, explicabo debitis sint illo quibusdam ipsam earum nihil iusto nam odit consectetur mollitia natus. Sit, eos hic!",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Learn HTML: full course",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique tenetur odio aspernatur amet natus magni qui, eveniet hic dolor quidem, tempora soluta ex officia velit veritatis voluptate illo fuga ad? Aspernatur doloribus nam officiis, perferendis nisi, facilis facere illum nesciunt provident et vero cumque recusandae. Delectus amet quo quae reiciendis est magnam mollitia accusamus, commodi eos aperiam error, ullam corrupti temporibus quisquam molestias quasi in iure quibusdam deserunt illo possimus adipisci dolorem saepe animi! Repudiandae praesentium eveniet sed quidem quis facilis temporibus vero, explicabo debitis sint illo quibusdam ipsam earum nihil iusto nam odit consectetur mollitia natus. Sit, eos hic!",
+      "tags": [
+        "html",
+        "webdev",
+        "course"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Front-end Developer Tips",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique tenetur odio aspernatur amet natus magni qui, eveniet hic dolor quidem, tempora soluta ex officia velit veritatis voluptate illo fuga ad? Aspernatur doloribus nam officiis, perferendis nisi, facilis facere illum nesciunt provident et vero cumque recusandae. Delectus amet quo quae reiciendis est magnam mollitia accusamus, commodi eos aperiam error, ullam corrupti temporibus quisquam molestias quasi in iure quibusdam deserunt illo possimus adipisci dolorem saepe animi! Repudiandae praesentium eveniet sed quidem quis facilis temporibus vero, explicabo debitis sint illo quibusdam ipsam earum nihil iusto nam odit consectetur mollitia natus. Sit, eos hic!",
+      "tags": [
+        "css",
+        "html",
+        "js"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Udemy java course",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique tenetur odio aspernatur amet natus magni qui, eveniet hic dolor quidem, tempora soluta ex officia velit veritatis voluptate illo fuga ad? Aspernatur doloribus nam officiis, perferendis nisi, facilis facere illum nesciunt provident et vero cumque recusandae. Delectus amet quo quae reiciendis est magnam mollitia accusamus, commodi eos aperiam error, ullam corrupti temporibus quisquam molestias quasi in iure quibusdam deserunt illo possimus adipisci dolorem saepe animi! Repudiandae praesentium eveniet sed quidem quis facilis temporibus vero, explicabo debitis sint illo quibusdam ipsam earum nihil iusto nam odit consectetur mollitia natus. Sit, eos hic!",
+      "tags": [
+        "java",
+        "dev",
+        "coding"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Java-script full path",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique tenetur odio aspernatur amet natus magni qui, eveniet hic dolor quidem, tempora soluta ex officia velit veritatis voluptate illo fuga ad? Aspernatur doloribus nam officiis, perferendis nisi, facilis facere illum nesciunt provident et vero cumque recusandae. Delectus amet quo quae reiciendis est magnam mollitia accusamus, commodi eos aperiam error, ullam corrupti temporibus quisquam molestias quasi in iure quibusdam deserunt illo possimus adipisci dolorem saepe animi! Repudiandae praesentium eveniet sed quidem quis facilis temporibus vero, explicabo debitis sint illo quibusdam ipsam earum nihil iusto nam odit consectetur mollitia natus. Sit, eos hic!",
+      "tags": [
+        "js",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Become a developer today",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique tenetur odio aspernatur amet natus magni qui, eveniet hic dolor quidem, tempora soluta ex officia velit veritatis voluptate illo fuga ad? Aspernatur doloribus nam officiis, perferendis nisi, facilis facere illum nesciunt provident et vero cumque recusandae. Delectus amet quo quae reiciendis est magnam mollitia accusamus, commodi eos aperiam error, ullam corrupti temporibus quisquam molestias quasi in iure quibusdam deserunt illo possimus adipisci dolorem saepe animi! Repudiandae praesentium eveniet sed quidem quis facilis temporibus vero, explicabo debitis sint illo quibusdam ipsam earum nihil iusto nam odit consectetur mollitia natus. Sit, eos hic!",
+      "tags": [
+        "news",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Internship for devs",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique tenetur odio aspernatur amet natus magni qui, eveniet hic dolor quidem, tempora soluta ex officia velit veritatis voluptate illo fuga ad? Aspernatur doloribus nam officiis, perferendis nisi, facilis facere illum nesciunt provident et vero cumque recusandae. Delectus amet quo quae reiciendis est magnam mollitia accusamus, commodi eos aperiam error, ullam corrupti temporibus quisquam molestias quasi in iure quibusdam deserunt illo possimus adipisci dolorem saepe animi! Repudiandae praesentium eveniet sed quidem quis facilis temporibus vero, explicabo debitis sint illo quibusdam ipsam earum nihil iusto nam odit consectetur mollitia natus. Sit, eos hic!",
+      "tags": [
+        "news",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "What do you think of python?",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique tenetur odio aspernatur amet natus magni qui, eveniet hic dolor quidem, tempora soluta ex officia velit veritatis voluptate illo fuga ad? Aspernatur doloribus nam officiis, perferendis nisi, facilis facere illum nesciunt provident et vero cumque recusandae. Delectus amet quo quae reiciendis est magnam mollitia accusamus, commodi eos aperiam error, ullam corrupti temporibus quisquam molestias quasi in iure quibusdam deserunt illo possimus adipisci dolorem saepe animi! Repudiandae praesentium eveniet sed quidem quis facilis temporibus vero, explicabo debitis sint illo quibusdam ipsam earum nihil iusto nam odit consectetur mollitia natus. Sit, eos hic!",
+      "tags": [
+        "news",
+        "python",
+        "coding"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Python or Java",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Similique tenetur odio aspernatur amet natus magni qui, eveniet hic dolor quidem, tempora soluta ex officia velit veritatis voluptate illo fuga ad? Aspernatur doloribus nam officiis, perferendis nisi, facilis facere illum nesciunt provident et vero cumque recusandae. Delectus amet quo quae reiciendis est magnam mollitia accusamus, commodi eos aperiam error, ullam corrupti temporibus quisquam molestias quasi in iure quibusdam deserunt illo possimus adipisci dolorem saepe animi! Repudiandae praesentium eveniet sed quidem quis facilis temporibus vero, explicabo debitis sint illo quibusdam ipsam earum nihil iusto nam odit consectetur mollitia natus. Sit, eos hic!",
+      "tags": [
+        "python",
+        "java",
+        "coding"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "omo",
+      "body": "omo",
+      "tags": [
+        "devs"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "tomiwa",
+      "body": "usgdyudgd",
+      "tags": [
+        "css"
+      ]
+    }
+  ]
+}

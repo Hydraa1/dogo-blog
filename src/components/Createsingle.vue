@@ -62,8 +62,8 @@ export default {
 
             if (sposts.value.id !== '' && sposts.value.title !== '' && sposts.value.body !== '' && sposts.value.tags !== null){
                 try {
-                    // const response = await axios.post('http://localhost:3000/posts', sposts.value)
-                    const response = await axios.post('http://192.168.43.44:3000/posts', sposts.value)
+                    const response = await axios.post('http://localhost:3000/posts', sposts.value)
+                    // const response = await axios.post('http://192.168.43.44:3000/posts', sposts.value)
                     // console.log(response);
                     if (response.statusText === 'Created'){
                         alert('Blog Created Sucessfully')

@@ -6,8 +6,8 @@ const getpost = (id) => {
 
     const load = async () => {
         try {
-            // let data = await fetch('http://localhost:3000/posts/' + id)
-            let data = await fetch('http://192.168.43.44:3000/posts/' + id)
+            let data = await fetch('http://localhost:3000/posts/' + id)
+            // let data = await fetch('http://192.168.43.44:3000/posts/' + id)
             if (!data.ok){
                 throw Error('No post available')
             }
